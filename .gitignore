@@ -1,0 +1,22 @@
+# Cache & môi trường 
+anaconada
+__pycache__/
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Dữ liệu & mô hình
+faces/
+face_trained.yml
+feature.npy
+labels.npy
+haar_face.xml
+photos/
+videos/
+
+# Hệ thống
+.DS_Store
+Thumbs.db
